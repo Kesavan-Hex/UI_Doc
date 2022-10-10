@@ -1,0 +1,106 @@
+/a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="tables/datatables.net.html">
+<span class="sidebar-mini">DT</span>
+<span class="sidebar-normal">DataTables.net</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-toggle="collapse" href="#mapsExamples">
+<i class="nc-icon nc-pin-3"></i>
+<p>
+Maps
+<b class="caret"></b>
+</p>
+</a>
+<div class="collapse " id="mapsExamples">
+<ul class="nav">
+<li class="nav-item ">
+<a class="nav-link" href="maps/google.html">
+<span class="sidebar-mini">GM</span>
+<span class="sidebar-normal">Google Maps</span>
+</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="maps/vector.html">
+<span class="sidebar-mini">VM</span>
+<span class="sidebar-normal">Vector maps</span>
+</a>
+</li>
+ <li class="nav-item ">
+<a class="nav-link" href="maps/fullscreen.html">
+<span class="sidebar-mini">FSM</span>
+<span class="sidebar-normal">Full Screen Map</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="charts.html">
+<i class="nc-icon nc-chart-bar-32"></i>
+<p>Charts</p>
+</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="calendar.html">
+<i class="nc-icon nc-single-copy-04"></i>
+<p>Calendar</p>
+</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-toggle="collapse" href="#pagesExamples">
+<i class="nc-icon nc-puzzle-10"></i>
+<p>
+Pages
+<b class="caret"></b>
+</p>
+</a>
+<div class="collapse " id="pagesExamples">
+<ul class="nav">
+<li class="nav-item ">
+<a class="nav-link" href="pages/login.html">
+<span class="sidebar-mini">LP</span>
+<span class="sidebar-normal">Login Page</span>
+</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="pages/register.html">
+<span class="sidebar-mini">RP</span>
+<span class="sidebar-normal">Register Page</span>
+</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="pages/lock.html">
+<span class="sidebar-mini">LSP</span>
+<span class="sidebar-normal">Lock Screen Page</span>
+</a>
+</li>
+<li class="nav-item  ">
+<a class="nav-link" href="pages/user.html">
+<span class="sidebar-mini">UP</span>
+<span class="sidebar-normal">User Page</span>
+</a>
+</li>
+<li class="nav-item  ">
+<a class="nav-link" href="#lbd">
+<span class="sidebar-mini">MCS</span>
+<span class="sidebar-normal">More coming soon...</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="main-panel">
+
+<nav class="navbar navbar-expand-lg ">
+<div class="container-fluid">
+<div class="navbar-wrapper">
+<div class="navbar-minimize
